@@ -16,7 +16,7 @@
 				<key>background</key>
 				<string>#232328</string>
 				<key>caret</key>
-				<string>#000000</string>
+				<string>#FFFFFF</string>
 				<key>foreground</key>
 				<string>#F5F5F5</string>
 				<key>invisibles</key>
